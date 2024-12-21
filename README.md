@@ -156,3 +156,6 @@ MIT License. See `LICENSE` for details.
 - [Streamlit](https://streamlit.io/) - Web Interface
 
 ## Contact
+
+- Name - [@supersanjan][https://github.com/supersanjan]
+- Project Link - [github.com/supersanjan/Article-Generaton-using-RAG-Model]
