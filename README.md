@@ -158,4 +158,4 @@ MIT License. See `LICENSE` for details.
 ## Contact
 
 - Name - @supersanjan [https://github.com/supersanjan]
-- Project Link - [https://github.com/supersanjan/Article-Generaton-using-RAG-Model]
+- Project Link - [https://github.com/supersanjan/Article-Generaton-using-RAG-Model-and-Sentimental-Analysis]
